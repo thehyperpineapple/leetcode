@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thehyperpineapple/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/thehyperpineapple/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/thehyperpineapple/leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thehyperpineapple/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/thehyperpineapple/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thehyperpineapple/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/thehyperpineapple/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/thehyperpineapple/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/thehyperpineapple/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/thehyperpineapple/leetcode/tree/master/0217-contains-duplicate) |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/thehyperpineapple/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/thehyperpineapple/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
