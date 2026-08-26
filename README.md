@@ -81,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/thehyperpineapple/leetcode/tree/master/0036-valid-sudoku) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/thehyperpineapple/leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/thehyperpineapple/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
